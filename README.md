@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="assets/readme-cover.png" width="100%" alt="Granola Exporter turns meeting conversations into private, searchable local notes" />
+
+</div>
+
 # Granola Exporter
 
 A modern macOS desktop app that exports your [Granola](https://www.granola.ai/) meeting notes and transcripts to local Markdown files — sortable, indexable, viewable in-app, and ready to feed to an AI assistant for content creation.
